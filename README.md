@@ -1,10 +1,10 @@
 
+<!--
 <p align="center"> 
   <img src="https://github.com/johnnymast/johnnymast/blob/master/banner/banner.gif" loop="none" />
 </p>
 
 
-<!-- retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/johnnymast/count.svg" loop="none" />
 </p>
@@ -12,7 +12,7 @@
 
 ### Hi there 👋
 
-<!--
+https://mubinsodyssey.com/create-a-badass-github-profile-readmes
 **johnnymast/johnnymast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
