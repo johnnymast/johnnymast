@@ -1,3 +1,11 @@
+![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
+
+<!-- retro visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/johnnymast/count.svg" />
+</p>
+
+
 ### Hi there 👋
 
 <!--
