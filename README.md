@@ -1,4 +1,4 @@
-![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
+![Banner](https://github.com/johnnymast/johnnymast/blob/master/banner/banner.gif)
 
 <!-- retro visitor counter -->
 <p align="center"> 
