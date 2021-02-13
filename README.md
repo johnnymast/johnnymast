@@ -1,8 +1,12 @@
-![Banner](https://github.com/johnnymast/johnnymast/blob/master/banner/banner.gif)
+
+<p align="center"> 
+  <img src="https://github.com/johnnymast/johnnymast/blob/master/banner/banner.gif" loop="none" />
+</p>
+
 
 <!-- retro visitor counter -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/johnnymast/count.svg" />
+  <img src="https://profile-counter.glitch.me/johnnymast/count.svg" loop="none" />
 </p>
 
 
