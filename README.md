@@ -9,7 +9,9 @@
 
 <!--
 <p align="center"> 
+<a href="https://github.com/johnnymast">
   <img src="https://profile-counter.glitch.me/johnnymast/count.svg" loop="none" />
+</a>
 </p>
 
 
