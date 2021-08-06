@@ -1,12 +1,8 @@
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mastjohnny?style=social)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/johnnymast?style=social)
-
-
 <p align="center">
- 	<a href="https://github.com/johnnymast">![GitHub followers](https://img.shields.io/github/followers/johnnymast?style=social)</a>
-	<a href="https://twitter.com/mastjohnny"><img src="img/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/sponsors/johnnymast"><img src="img/sponsors.svg" alt="Sponsors"></a>
+ 	<a href="https://github.com/johnnymast"><img src="https://img.shields.io/github/followers/johnnymast?style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/mastjohnny"><img src="https://img.shields.io/twitter/follow/mastjohnny?style=social" alt="Twitter"></a>
+	<a href="https://github.com/sponsors/johnnymast"><img src="https://img.shields.io/github/sponsors/johnnymast?style=socia" alt="Sponsors"></a>
 </p>
 
 
