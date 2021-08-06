@@ -1,8 +1,7 @@
-<p  align="center">
 ![GitHub followers](https://img.shields.io/github/followers/johnnymast?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mastjohnny?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/johnnymast?style=social)
-</p>
+
 
 <p align="center">
  	<a href="https://github.com/johnnymast"><img src="img/github.svg" alt="GitHub"></a>
