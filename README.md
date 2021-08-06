@@ -1,6 +1,6 @@
 
 <p align="center">
-    ![GitHub followers](https://img.shields.io/github/followers/johnnymast?style=social)
+    [![GitHub followers](https://img.shields.io/github/followers/johnnymast?style=social)]
 
 	<a href="https://github.com/johnnymast"><img src="img/github.svg" alt="GitHub"></a>
 	<a href="https://twitter.com/mastjohnny"><img src="img/twitter.svg" alt="Twitter"></a>
