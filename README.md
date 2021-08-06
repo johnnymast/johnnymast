@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/johnnymast">
-![Johnny Mast's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnymast&show_icons=true&theme=radical&hide_border=true&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymast&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=johnnymast&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymast&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 
