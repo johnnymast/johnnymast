@@ -4,6 +4,12 @@
 	<a href="https://twitter.com/mastjohnny"><img src="https://img.shields.io/twitter/follow/mastjohnny?style=social" alt="Twitter"></a>
 	<a href="https://github.com/sponsors/johnnymast"><img src="https://img.shields.io/github/sponsors/johnnymast?style=socia" alt="Sponsors"></a>
 </p>
+
+<p align="center">My name is Johnny. In my daily job, I am a full-stack (web) game developer creating backend and frontend solutions for a game platform online.
+
+<p align="center">In my offtime, I like to work on opensource projects that can help developers or website administrators out.</p>
+
+
 <p align="center">🔭 I’m currently working on <a href="https://github.com/axiom-labs/rivescript-php">Rivescript-php</a>, a robust Rivescript interpreter for php. </p>
 <p align="center">⚡ Fun fact: I was named after Johnny Cash</p>
 
