@@ -2,7 +2,7 @@
 <p align="center">
 	<a href="https://github.com/johnnymast"><img src="img/github.svg" alt="GitHub"></a>
 	<a href="https://twitter.com/johnnymast"><img src="img/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/sponsors/johnnymast"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+	<a href="https://github.com/sponsors/johnnymast"><img src="img/sponsors.svg" alt="Sponsors"></a>
 </p>
 
 
