@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 </a>
 
 
+<center>
+	<a href="https://www.buymeacoffee.com/mastjohnny">Buy me a Coffee</a>
+</center>
