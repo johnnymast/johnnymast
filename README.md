@@ -4,7 +4,7 @@
 	<a href="https://twitter.com/mastjohnny"><img src="https://img.shields.io/twitter/follow/mastjohnny?style=social" alt="Twitter"></a>
 	<a href="https://github.com/sponsors/johnnymast"><img src="https://img.shields.io/github/sponsors/johnnymast?style=socia" alt="Sponsors"></a>
 </p>
-
+<p align="center"><a href="https://www.buymeacoffee.com/mastjohnny">Buy me a Coffee</a></p>
 <p align="center">🔭 I’m currently working on <a href="https://github.com/axiom-labs/rivescript-php">Rivescript-php</a>, a robust Rivescript interpreter for PHP</p>
 <p align="center">⚡ Fun fact: I was named after Johnny Cash</p>
 
@@ -37,6 +37,3 @@ Here are some ideas to get you started:
 </a>
 
 
-<center>
-	<a href="https://www.buymeacoffee.com/mastjohnny">Buy me a Coffee</a>
-</center>
