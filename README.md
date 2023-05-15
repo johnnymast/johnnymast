@@ -4,9 +4,16 @@
 	<a href="https://twitter.com/mastjohnny"><img src="https://img.shields.io/twitter/follow/mastjohnny?style=social" alt="Twitter"></a>
 	<a href="https://github.com/sponsors/johnnymast"><img src="https://img.shields.io/github/sponsors/johnnymast?style=socia" alt="Sponsors"></a>
 </p>
-<p align="center"><a href="https://www.buymeacoffee.com/mastjohnny">Buy me a Coffee</a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/mastjohnny">:coffee: Buy me a Coffee</a></p>
 <p align="center">🔭 I’m currently working on <a href="https://github.com/axiom-labs/rivescript-php">Rivescript-php</a>, a robust Rivescript interpreter for PHP</p>
 <p align="center">⚡ Fun fact: I was named after Johnny Cash</p>
+
+<p align="center">
+<a href="https://github.com/johnnymast">
+<img src="https://github-readme-stats.vercel.app/api?username=johnnymast&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymast&layout=compact&theme=radical&hide_border=true" />
+</a>
+	</p>
 
 <!--
 <p align="center"> 
@@ -31,9 +38,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/johnnymast">
-<img src="https://github-readme-stats.vercel.app/api?username=johnnymast&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymast&layout=compact&theme=radical&hide_border=true" />
-</a>
 
 
