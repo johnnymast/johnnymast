@@ -12,7 +12,7 @@
 </p>
 -->
 
-## Hi, I'm Johnny Mast
+## Hi, I'm Johnny
 
 **Senior software engineer with over 25 years of experience**, combining deep Linux knowledge with professional backend, systems, and full‑stack development. I enjoy building reliable, maintainable software and turning complex ideas into practical, working solutions.
 
