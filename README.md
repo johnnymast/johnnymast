@@ -43,11 +43,3 @@ Your support helps me continue building tools and experimenting with new ideas.
 - **LinkedIn**: https:\/\/www.linkedin.com\/in\/johnnymast\/  
 - **My public GitHub projects**: https:\/\/github.com\/johnnymast?tab=repositories
 
-
-<br>
-<br>
-<a href="https://github.com/johnnymast">
-	<img src="https://github-readme-stats.vercel.app/api?username=johnnymast&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymast&layout=compact&theme=radical&hide_border=true" />
-</a>
-
